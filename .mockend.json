@@ -1,0 +1,51 @@
+{
+  "ticketArray": [
+    {
+      "id": 5,
+      "name": "Referral Bonus",
+      "timeStatus": "Updated 1 day ago",
+      "customerName": "Robert Downey",
+      "date": "24.05.2019",
+      "deadline": "May 26, 2019",
+      "time": "6:30 PM",
+      "btnText": "low",
+      "imgSrc": "https://source.unsplash.com/random/?potrait,man"
+    },
+    {
+      "id": 6,
+      "name": "Downtime since last week",
+      "timeStatus": "Updated 1 day ago",
+      "customerName": "Robert Downey",
+      "date": "24.05.2019",
+      "deadline": "May 26, 2019",
+      "time": "6:30 PM",
+      "btnText": "high",
+      "imgSrc": "https://source.unsplash.com/random/?potrait,woman"
+    },
+    {
+      "id": 7,
+      "name": "Cannot respond to email",
+      "timeStatus": "Updated 1 day ago",
+      "customerName": "Binaya Batas",
+      "date": "24.05.2019",
+      "deadline": "May 26, 2019",
+      "time": "6:30 PM",
+      "btnText": "high",
+      "imgSrc": "https://source.unsplash.com/random/?potrait,handsome"
+    }
+  ],
+  "users": [
+    {
+      "id": "0",
+      "fullname": "Binaya Batas",
+      "email": "binaya@gmail.com",
+      "password": "password"
+    },
+    {
+      "fullname": "Kenish Dahal",
+      "email": "kenish@gmail.com",
+      "password": "123",
+      "id": "fQJIxmW"
+    }
+  ]
+}
